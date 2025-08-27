@@ -27,6 +27,7 @@
             $letter = "F";
         }
 
+        
     //dito lumalabas ang final grade at kung ano ang letter.
     echo "<p class='result'>Final Grade: " . round($result, 2) . " (Letter Grade: $letter)</p>";
       
